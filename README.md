@@ -56,6 +56,6 @@ This project provides a foundation for further research in **economic forecastin
 
 ---
 
-**Contributor:** parth Garg
+**Contributor:** Parth Garg
 **Tools Used:** Google Earth Engine, Python, Machine Learning, Data Scraping  
 **License:** Open-source
